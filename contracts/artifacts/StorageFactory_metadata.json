@@ -82,7 +82,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"RemixProjects/StorageContractWithPython/contracts/StorageFactory.sol": "StorageFactory"
+			"StorageContractWithPython/contracts/StorageFactory.sol": "StorageFactory"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -90,20 +90,20 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
-		"RemixProjects/StorageContractWithPython/contracts/Storage.sol": {
+		"StorageContractWithPython/contracts/Storage.sol": {
 			"keccak256": "0xab7cb2e107a830184568879174df5e475a106876005e28ac25e0fb0d0c58c3a7",
 			"urls": [
 				"bzz-raw://d8ab3daf96c9f53ee7d4d1ad1aba7b268a556085d0ddf6be8900bbbfa173542f",
 				"dweb:/ipfs/QmR5C1qT2bamRcWDin43qCgGiCAdSt3U1268M24P6tCf9j"
 			]
 		},
-		"RemixProjects/StorageContractWithPython/contracts/StorageFactory.sol": {
+		"StorageContractWithPython/contracts/StorageFactory.sol": {
 			"keccak256": "0x3105665b5e6a566b0a556b858d5e1ea8c7ca2a79992f141dd0fc8e05fa56e667",
 			"license": "GPL-3.0",
 			"urls": [
